@@ -49,6 +49,6 @@ This is a dual-mode robot control script for a LEGO EV3 robot using MATLAB and t
 
 ### 🧰 Requirements
 
-- MATLAB with [RWTH Mindstorms NXT Toolbox](https://www.mindstorms.rwth-aachen.de)  
+- MATLAB with MindStorm ToolBox
 - LEGO EV3 Brick  
 - EV3 motors and sensors as
